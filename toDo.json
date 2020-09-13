@@ -1,0 +1,19 @@
+{
+    "ToDoApp": {
+        "ToDo1": {
+            "toDoTitle": "Create a new design",
+            "descToDo": "Do it",
+            "dateToDo": "Tomorrow"
+        },
+        "ToDo2": {
+            "toDoTitle": "Play Games",
+            "descToDo": "Do it",
+            "dateToDo": "Today"
+        },
+        "ToDo3": {
+            "toDoTitle": "SLeep",
+            "descToDo": "Do it",
+            "dateToDo": "Tomorrow"
+        }
+    }
+}
